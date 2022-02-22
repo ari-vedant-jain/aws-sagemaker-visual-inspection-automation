@@ -1,0 +1,12 @@
+{
+  "CloudformationStackARN": "arn:aws:cloudformation:us-east-1:215839950614:stack/SC-215839950614-pp-z55bgtgbpoudg/e227bdf0-9343-11ec-865a-0aca7697e40d",
+  "S3Bucket": "sagemaker-soln-dfd-js-x16gpc-215839950614-us-east-1",
+  "IamRole": "arn:aws:iam::215839950614:role/service-role/AmazonSageMakerServiceCatalogProductsUseRole",
+  "SolutionS3Bucket": "sagemaker-solutions-prod",
+  "SolutionPrefix": "sagemaker-soln-dfd-js-x16gpc",
+  "SageMakerMode": "Studio",
+  "AccountID": "215839950614",
+  "StackName": "SC-215839950614-pp-z55bgtgbpoudg",
+  "AWSRegion": "us-east-1",
+  "SolutionName": "sagemaker-defect-detection/1.3.0"
+}
